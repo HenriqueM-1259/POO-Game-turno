@@ -1,0 +1,15 @@
+C:\Git\histgame\histgame\bin\Debug\net6.0\histgame.exe
+C:\Git\histgame\histgame\bin\Debug\net6.0\histgame.deps.json
+C:\Git\histgame\histgame\bin\Debug\net6.0\histgame.runtimeconfig.json
+C:\Git\histgame\histgame\bin\Debug\net6.0\histgame.dll
+C:\Git\histgame\histgame\bin\Debug\net6.0\histgame.pdb
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.csproj.AssemblyReference.cache
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.AssemblyInfoInputs.cache
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.AssemblyInfo.cs
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.csproj.CoreCompileInputs.cache
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.dll
+C:\Git\histgame\histgame\obj\Debug\net6.0\refint\histgame.dll
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.pdb
+C:\Git\histgame\histgame\obj\Debug\net6.0\histgame.genruntimeconfig.cache
+C:\Git\histgame\histgame\obj\Debug\net6.0\ref\histgame.dll
